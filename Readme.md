@@ -1,0 +1,1 @@
+Run a game with map.ber map.
