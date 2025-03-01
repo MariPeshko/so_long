@@ -1,0 +1,10 @@
+.vscode/
+**/.vscode/
+obj/
+**./obj/
+a.out
+**/a.out
+**/*.a
+**/*.o
+**/so_long
+#the ** is short for "any subdirectory"
